@@ -1,4 +1,4 @@
-const apiKey = '395f846128aa892062eebabb84fddc55'; // Replace with your actual API key
+const apiKey = 'API KEY'; // Replace with your actual API key
 
 document.getElementById('search-button').addEventListener('click', () => {
     const location = document.getElementById('location-input').value;
